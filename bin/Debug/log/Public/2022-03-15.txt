@@ -1,0 +1,2 @@
+15-03-2022 09:29:59	Error accurs on method: GetMailData, error message: ORA-00942: table or view does not exist
+15-03-2022 09:30:35	Error accurs on method: GetMailData, error message: ORA-00942: table or view does not exist

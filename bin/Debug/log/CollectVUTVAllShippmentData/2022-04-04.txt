@@ -1,0 +1,7 @@
+04-04-2022 10:38:01	Start.. CollectVUTVAllShippmentData Method 04-04-2022 10:38:01
+04-04-2022 10:42:46	Start.. CollectVUTVAllShippmentData Method 04-04-2022 10:42:46
+04-04-2022 10:43:15	Start.. CollectVUTVAllShippmentData Method 04-04-2022 10:43:15
+04-04-2022 10:43:36	Start.. CollectVUTVAllShippmentData Method 04-04-2022 10:43:36
+04-04-2022 10:43:47	Call Mail Id's 04-04-2022 10:43:47
+04-04-2022 10:43:56	10:43
+04-04-2022 10:44:39	Get VUTV Data 04-04-2022 10:44:39 VUTV Count: 58141

@@ -1,0 +1,26 @@
+07-10-2022 13:25:10	Start.. CollectMpkInstockGapData Method 07-10-2022 13:25:10
+07-10-2022 13:25:28	Call Mail Id's 07-10-2022 13:25:28
+07-10-2022 13:25:32	13:25
+07-10-2022 13:26:52	Start.. CollectMpkInstockGapData Method 07-10-2022 13:26:52
+07-10-2022 13:27:11	Start.. CollectMpkInstockGapData Method 07-10-2022 13:27:11
+07-10-2022 13:27:20	Call Mail Id's 07-10-2022 13:27:20
+07-10-2022 13:27:23	13:27
+07-10-2022 13:28:00	Get CollectMpkInstockGap Data 07-10-2022 13:28:00 C3L Count: 242
+07-10-2022 13:28:19	Get CollectMpkInstockGap Data 07-10-2022 13:28:19 C3M2 Count: 120
+07-10-2022 13:28:35	Get CollectMpkInstockGap Data 07-10-2022 13:28:35 C3MI Count: 1
+07-10-2022 13:29:11	Get CollectMpkInstockGap Data 07-10-2022 13:29:11 C3QB Count: 360
+07-10-2022 13:29:11	Get CollectMpkInstockGap Data 07-10-2022 13:29:11 C3QC Count: 60
+07-10-2022 13:29:16	Get CollectMpkInstockGap Data 07-10-2022 13:29:16 K16 Count: 1
+07-10-2022 13:29:21	Get CollectMpkInstockGap Data 07-10-2022 13:29:21 K16U Count: 0
+07-10-2022 13:29:33	Get CollectMpkInstockGap Data 07-10-2022 13:29:33 K19 Count: 0
+07-10-2022 13:29:38	Get CollectMpkInstockGap Data 07-10-2022 13:29:38 K19P Count: 0
+07-10-2022 13:29:39	Get CollectMpkInstockGap Data 07-10-2022 13:29:39 K3S Count: 0
+07-10-2022 13:29:47	Get CollectMpkInstockGap Data 07-10-2022 13:29:47 K7P Count: 300
+07-10-2022 13:29:54	Get CollectMpkInstockGap Data 07-10-2022 13:29:54 K7S Count: 420
+07-10-2022 13:30:10	Get CollectMpkInstockGap Data 07-10-2022 13:30:10 K7T Count: 380
+07-10-2022 13:30:14	Get CollectMpkInstockGap Data 07-10-2022 13:30:14 K9D Count: 0
+07-10-2022 13:30:16	Get CollectMpkInstockGap Data 07-10-2022 13:30:16 L16 Count: 0
+07-10-2022 13:30:17	Get CollectMpkInstockGap Data 07-10-2022 13:30:17 L19 Count: 360
+07-10-2022 13:30:20	Get CollectMpkInstockGap Data 07-10-2022 13:30:20 L19C Count: 860
+07-10-2022 13:30:21	Get CollectMpkInstockGap Data 07-10-2022 13:30:21 L19P Count: 1
+07-10-2022 13:30:21	Get CollectMpkInstockGap Data 07-10-2022 13:30:21 L2 Count: 0

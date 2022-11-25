@@ -1,0 +1,1 @@
+18-02-2022 15:28:01	Error accurs on method: GetMailData, error message: ORA-00933: SQL command not properly ended

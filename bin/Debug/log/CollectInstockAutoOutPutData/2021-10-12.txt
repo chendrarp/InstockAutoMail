@@ -1,0 +1,9 @@
+12-10-2021 09:25:36	Start.. CollectInstockAutoOutPutData Method 12-10-2021 09:25:36
+12-10-2021 09:25:42	9:25
+12-10-2021 09:25:49	Get Instock Data 12-10-2021 09:25:49
+12-10-2021 09:25:51	Call Mail Id's 12-10-2021 09:25:51
+12-10-2021 09:27:32	Start.. CollectInstockAutoOutPutData Method 12-10-2021 09:27:32
+12-10-2021 10:07:06	Start.. CollectInstockAutoOutPutData Method 12-10-2021 10:07:06
+12-10-2021 10:07:12	10:7
+12-10-2021 10:07:14	Get Instock Data 12-10-2021 10:07:14
+12-10-2021 10:07:15	Call Mail Id's 12-10-2021 10:07:15

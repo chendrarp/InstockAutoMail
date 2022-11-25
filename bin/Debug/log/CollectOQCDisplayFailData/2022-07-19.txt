@@ -1,0 +1,7 @@
+19-07-2022 11:47:25	Start.. CollectOQCDisplayFailData Method 19-07-2022 11:47:25
+19-07-2022 11:47:36	Call Mail Id's 19-07-2022 11:47:36
+19-07-2022 11:47:39	11:47
+19-07-2022 11:52:04	Start.. CollectOQCDisplayFailData Method 19-07-2022 11:52:04
+19-07-2022 11:52:24	Start.. CollectOQCDisplayFailData Method 19-07-2022 11:52:24
+19-07-2022 11:52:32	Call Mail Id's 19-07-2022 11:52:32
+19-07-2022 11:52:33	11:52

@@ -1,0 +1,17 @@
+25-07-2022 10:27:14	Start.. CollectOQCDisplayFailData Method 25-07-2022 10:27:14
+25-07-2022 10:28:40	Call Mail Id's 25-07-2022 10:28:40
+25-07-2022 10:29:03	10:27
+25-07-2022 10:38:05	Start.. CollectOQCDisplayFailData Method 25-07-2022 10:38:05
+25-07-2022 10:41:18	Start.. CollectOQCDisplayFailData Method 25-07-2022 10:41:18
+25-07-2022 10:42:27	Start.. CollectOQCDisplayFailData Method 25-07-2022 10:42:27
+25-07-2022 10:42:33	Call Mail Id's 25-07-2022 10:42:33
+25-07-2022 10:42:35	10:42
+25-07-2022 11:09:03	Start.. CollectOQCDisplayFailData Method 25-07-2022 11:09:03
+25-07-2022 11:09:08	Call Mail Id's 25-07-2022 11:09:08
+25-07-2022 11:09:09	11:9
+25-07-2022 11:24:50	Start.. CollectOQCDisplayFailData Method 25-07-2022 11:24:50
+25-07-2022 11:24:57	Call Mail Id's 25-07-2022 11:24:57
+25-07-2022 11:31:30	Start.. CollectOQCDisplayFailData Method 25-07-2022 11:31:30
+25-07-2022 11:33:21	Start.. CollectOQCDisplayFailData Method 25-07-2022 11:33:21
+25-07-2022 11:33:27	Call Mail Id's 25-07-2022 11:33:27
+25-07-2022 11:33:48	11:33

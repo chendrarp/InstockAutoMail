@@ -1,0 +1,432 @@
+﻿Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Attempt to stop service Instock.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Attempt to stop service Instock.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Creating EventLog source Instock in log Application...
+Rolling back assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Restoring event log to previous state for source Instock.
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Attempt to stop service Instock.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Attempt to stop service Instock.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Attempt to stop service Instock.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Installing service Instock...
+Service Instock has been successfully installed.
+Creating EventLog source Instock in log Application...
+Committing assembly 'D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+Removing EventLog source Instock.
+Service Instock is being removed from the system...
+Service Instock was successfully removed from the system.
+Installing assembly 'D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe assembly.
+Committing assembly 'D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe
+   logfile = D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\RAMESH\2019\Projects\SFCOBAAutoMailService\InstockAutoMailService\bin\Debug\InstockAutoMailService.exe assembly.
