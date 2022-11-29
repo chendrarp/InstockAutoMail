@@ -69,7 +69,7 @@ namespace InstockAutoMailService
             //CollectMPKShippedAutoOutPutData();
             //CollectDashboardInstockFullData();
             //CollectOQCDisplayFailData();
-            CollectMpkInstockGapData();
+            //CollectMpkInstockGapData();
         }
         protected override void OnStart(string[] args)
         {
