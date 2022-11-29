@@ -13,5 +13,6 @@ namespace InstockAutoMailService.Models
         public string Group { get; set; }
         public string ModelCode { get; set; }
         public int QTY { get; set; }
+
     }
 }
